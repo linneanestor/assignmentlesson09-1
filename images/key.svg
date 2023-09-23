@@ -1,0 +1,12 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 width="300px" height="300px"  enable-background="-15 -15 300 350"
+	 xml:space="preserve">
+	 <symbol id="key" viewBox="-15 -15 300 350">
+        <rect width="150" height="100" fill="none" stroke-width="15" stroke="black" rx="60"/>
+        <polyline points="60,110 90,110" stroke-width="15" stroke="black"/>
+        <polyline points="75,100 75,300" stroke-width="15" stroke="black"/>
+        <polyline points="75,292 145,292" stroke-width="15" stroke="black"/>
+        <polyline points="75,260 120,260" stroke-width="15" stroke="black"/>
+        <polyline points="75,230 110,230" stroke-width="15" stroke="black"/>
+	</symbol>
+</svg>
